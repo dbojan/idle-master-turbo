@@ -6,11 +6,10 @@ Fork of linux-idle-master https://github.com/michael-n0813/linux-idle-master , r
 
 linux and windows, requires python
 
-best way to view in steam is to go: library\home
-
+best way to watch realtime running in steam app, is to go: library\home  
 then click on little clock near "games and software"
 
-if list of current gamese are not updated, try restarting steam, or restarting script, or reopen steamcommunity.com and reenter new sessionID and steamLoginSecure in script.
+if list of current games is not updated, try restarting steam, or restarting script, or reopen steamcommunity.com and reenter new sessionID and steamLoginSecure in script.
 
 **changes:**
 
