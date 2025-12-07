@@ -4,7 +4,7 @@
 
 Fork of linux-idle-master https://github.com/michael-n0813/linux-idle-master , running 32 processes in parallel, for linux and windows, for steam card drops.
 
-linux and windows, requires python
+requires python
 
 best way to watch realtime running in steam app, is to go: library\home  
 then click on little clock near "games and software"
