@@ -11,12 +11,14 @@ then click on little clock near "games and software"
 
 if list of current games is not updated, try restarting steam, or restarting script, or reopen steamcommunity.com and reenter new sessionID and steamLoginSecure in script.
 
-**changes:**
+
+**changes:**  
+
+2025-12-08-1 
+- minor fixes
 
 2025-12-07-1 
 - set vac list to empty
 - changed wait to end process
 - save appnames to disk cache file
 
-2025-12-08-1 
-- minor fixes
