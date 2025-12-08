@@ -1,6 +1,6 @@
 # idle-master-turbo
 
-#2025-12-07-1
+#2025-12-08-1
 
 Fork of linux-idle-master https://github.com/michael-n0813/linux-idle-master , running 32 processes in parallel, for linux and windows, for steam card drops.
 
@@ -17,3 +17,6 @@ if list of current games is not updated, try restarting steam, or restarting scr
 - set vac list to empty
 - changed wait to end process
 - save appnames to disk cache file
+
+2025-12-08-1 
+- minor fixes
