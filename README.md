@@ -11,7 +11,7 @@ then click on little clock near "games and software"
 
 if list of current games is not updated, try restarting steam, or restarting script, or reopen steamcommunity.com and reenter new sessionID and steamLoginSecure in script.
 
-included is **market_table.py** to create table of the items you put on steam marketpace, with info on highest buy, and lowest sell, and difference to your offer.
+included is **market_table_create.py** to create table of the items you put on steam marketpace, with info on highest buy, and lowest sell, and difference to your offer.
 
 
 **changes:**  
