@@ -17,7 +17,7 @@ included is **market_table_create.py** to create table of the items you put on s
 **changes:**  
 
 2025-12-13-1  
--changes in market_table.py
+- changes in market_table.py
 
 2025-12-12-1  
 - added market_table.py  
