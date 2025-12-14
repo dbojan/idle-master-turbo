@@ -1,6 +1,6 @@
 # idle-master-turbo
 
-#2025-12-13-2
+#2025-12-14-2
 
 Fork of linux-idle-master https://github.com/michael-n0813/linux-idle-master, running 32 processes in parallel, for linux and windows, for steam card drops.
 
@@ -15,6 +15,9 @@ included is **market_table_create.py** to create table of the items you put on s
 
 
 **changes:**  
+
+2025-12-14-2  
+- fix for 0.29*100=28
 
 2025-12-13-2  
 - bug fixes
