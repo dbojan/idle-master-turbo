@@ -1,6 +1,6 @@
 # idle-master-turbo
 
-#2025-12-16-1
+#2025-12-18-1
 
 Fork of linux-idle-master https://github.com/michael-n0813/linux-idle-master, running 32 processes in parallel, for linux and windows, for steam card drops.
 
@@ -14,7 +14,10 @@ if list of current games is not updated, try restarting steam, or restarting scr
 included is **market_table_create.py** to create table of the items you put on steam marketpace, with info on highest buy, and lowest sell, and difference to your offer.
 
 
-**changes:**  
+**changes:**
+
+2025-12-18-1  
+- small text updates
 
 2025-12-16-1  
 - minor changes in market_table_create.py
